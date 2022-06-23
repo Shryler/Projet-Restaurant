@@ -2,9 +2,13 @@
 .page-holder{
     min-height: 100vh;
 }
+.zindex {
+  z-index: 1;
+}
 
 .bg-cover{
     background-size: cover !important;
+    background: linear-gradient(to top, rgb(0, 0, 0), rgba(33, 37, 41, 0.152)), url(../img/resto3.jpeg);
 }
 
 table{
@@ -15,3 +19,6 @@ table{
   background: linear-gradient(to right, blue, pink);
 }
 
+.vheight-50 {
+  margin-top: 50vh;
+}
