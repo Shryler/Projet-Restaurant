@@ -1,3 +1,4 @@
+
 .page-holder{
     min-height: 100vh;
 }
@@ -5,3 +6,12 @@
 .bg-cover{
     background-size: cover !important;
 }
+
+table{
+  margin-right: 50%;
+}
+
+.degrade-horizontal {
+  background: linear-gradient(to right, blue, pink);
+}
+
