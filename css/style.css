@@ -16,7 +16,11 @@ table{
 }
 
 .degrade-horizontal {
-  background: linear-gradient(to right, blue, pink);
+  background: linear-gradient(to right, rgb(23, 23, 27), rgb(240, 236, 237));
+}
+
+.degrade-horizontal2 {
+  background: linear-gradient(to right, rgb(239, 239, 241), rgba(14, 10, 11, 0.363));
 }
 
 .vheight-50 {
