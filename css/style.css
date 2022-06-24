@@ -8,3 +8,16 @@
 .degrade-horizontal2 {
   background: linear-gradient(to right, rgb(239, 239, 241), rgba(14, 10, 11, 0.363));
 }
+
+.map-responsive {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+  
+  .map-responsive iframe {
+  left:0;
+  top:0;
+  width:100%;
+  }
