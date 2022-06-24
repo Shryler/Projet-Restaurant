@@ -5,3 +5,6 @@
   background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(0, 0, 0, 0.6) 30%, rgba(255, 255, 255, 0) 100%), url(../img/bg.png); }
 .degrade-horizontal { background: linear-gradient(to right, blue, pink); }
 .vheight-50 { margin-top: 50vh; }
+.degrade-horizontal2 {
+  background: linear-gradient(to right, rgb(239, 239, 241), rgba(14, 10, 11, 0.363));
+}
