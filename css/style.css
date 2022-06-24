@@ -2,7 +2,7 @@
 .zindex { z-index: 1; }
 .img-logo { width: 45px; }
 .bg-cover { background-size: cover !important;
-  background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(0, 0, 0, 0.6) 30%, rgba(255, 255, 255, 0) 100%), url(../img/bg.png); }
+  background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(0, 0, 0, 0.6) 30%, rgba(255, 255, 255, 0) 100%), url(../img/bg.png) fixed; }
 .degrade-horizontal {   background: linear-gradient(to right, rgb(23, 23, 27), rgb(240, 236, 237)); }
 .vheight-50 { margin-top: 50vh; }
 .degrade-horizontal2 {
